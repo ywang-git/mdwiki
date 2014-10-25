@@ -1,13 +1,40 @@
-# It works! ;-)
+#Knowledge Base#
+
+Intent
+
+This is my personal knowledge base. Hopefully this will help organize my learnings.
+
+The knowledge base will be organized into different topics, as well as the notes taken while reading books in different fields. The intent of the note-taking would be:
+
+1. Get a structural outline of the book, so that to help understand the topic;
+2. By quoting key excerpts, make the notes as materials to review so no need to go back to the book unless details are needed.
 
 
-## Section 1
 
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras mattis consectetur purus sit amet fermentum. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Sed posuere consectetur est at lobortis.
+---
+##Computer Related##
 
+###Data Structure & Algorithms###
 
-## Section 2
+1 [Growth of Functions](/ITA-3 Growth of Functions)
 
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec ullamcorper nulla non metus auctor fringilla. Cras mattis consectetur purus sit amet fermentum. Donec ullamcorper nulla non metus auctor fringilla. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
+2 [String Algorithms](/Data Structures and Algorithms/String Algorithms)
 
-Vestibulum id ligula porta felis euismod semper. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
+3 [Longest Common Subsequences](/ITA-15.4_longest_common_subsequence)
+
+###Programing Language###
+
+####Scala####
+
+#####Functional Programming Principles in Scala#####
+[Currying](/Scala/FPPiS/Currying)
+
+###Software Engineering###
+
+####Object Oriented Designe####
+
+1 [SOLID Design Principles](OOD/SOLID Design Principles)
+
+##Reading Notes##
+
+##Chinese Articles##
