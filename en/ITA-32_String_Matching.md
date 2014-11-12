@@ -1,4 +1,4 @@
-5#32 String Matching
+#32 String Matching
 
 __*strings*__: character arrays.
 
