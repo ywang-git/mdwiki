@@ -16,21 +16,21 @@ The knowledge base will be organized into different topics, as well as the notes
 
 ###Data Structure & Algorithms###
 
-1 [Growth of Functions](/ITA-3 Growth of Functions.md)
+1 [Growth of Functions](ITA-3 Growth of Functions.md)
 
-2 [String Algorithms](/Data Structures and Algorithms/String Algorithms.md)
+2 [String Algorithms](Data Structures and Algorithms/String Algorithms.md)
 
-3 [Longest Common Subsequences](/ITA-15.4_longest_common_subsequence.md)
+3 [Longest Common Subsequences](ITA-15.4_longest_common_subsequence.md)
 
 ###Programing Language###
 
 ####Scala####
 
 #####Functional Programming Principles in Scala#####
-[Currying](/Scala/FPPiS/Currying.md)
+[Currying](Scala/FPPiS/Currying.md)
 
 ####C++####
-[Use of Template](/cpp/use-of-template.md)
+[Use of Template](cpp/use-of-template.md)
 
 ###Software Engineering###
 
