@@ -34,10 +34,15 @@ The knowledge base will be organized into different topics, as well as the notes
 
 ###Software Engineering###
 
-####Object Oriented Designe####
+####Object Oriented Design####
 
-1 [SOLID Design Principles](OOD/SOLID Design Principles.md)
+[SOLID Design Principles](OOD/SOLID Design Principles.md)
 
+[Design Patterns](OOD/design-patterns/index.md)
+
+
+
+---
 ##Reading Notes##
 
 ##Chinese Articles##
