@@ -40,6 +40,18 @@ The knowledge base will be organized into different topics, as well as the notes
 
 [Design Patterns](OOD/design-patterns/index.md)
 
+## Interview Notes ##
+[Basic Data Structures](solve/BasicDataStructures.md)
+
+[Advanced Data Structures](solve/advanced-data-structures.md)
+
+[Five Algorithms](solve/five-algorithms.md)
+
+[String Algorithms](solve/string_algorithms.md)
+
+[Type of Problems](solve/type-of-problems.md)
+
+[SOLID](solve/solid.md)
 
 
 ---
