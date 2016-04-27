@@ -36,7 +36,7 @@ Passing the service to the client, rather than allowing a client to build or fin
 > 
 > hierarchy is reasonably shallow and other developers are not likely to add many more levels
 > 
-> make global changes to derived classes by chaning a base class
+> make global changes to derived classes by changing a base class
 
 
 
