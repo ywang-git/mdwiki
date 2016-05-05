@@ -1,3 +1,4 @@
+[gimmick: math]()
 #32 String Matching
 
 __*strings*__: character arrays.

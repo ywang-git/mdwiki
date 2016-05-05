@@ -1,3 +1,4 @@
+[gimmick: math]()
 #3 Growth of Functions
 **asymptotic efficiency**: how the running time of an algorithm increases with the size of input _in the limit_ as the size of the input increases without bound.
 ___
