@@ -3,5 +3,5 @@
 
 [download](download.md)
 
-[uploads](uploads)/index.md)
+[uploads](uploads/index.md)
 

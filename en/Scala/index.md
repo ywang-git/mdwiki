@@ -1,4 +1,4 @@
 #Scala
 
-[FPPiS](FPPiS)/index.md)
+[FPPiS](FPPiS/index.md)
 
