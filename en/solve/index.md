@@ -7,7 +7,7 @@
 
 [solid](solid.md)
 
-[string_algorithms](string_algorithms.md)
+[string\_algorithms](string_algorithms.md)
 
 [type-of-problems](type-of-problems.md)
 

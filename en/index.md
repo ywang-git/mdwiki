@@ -1,60 +1,23 @@
-#Knowledge Base#
+#en
+[algorithms](algorithms/index.md)
+[Coursera Notes](Coursera Notes/index.md)
+[cpp](cpp/index.md)
+[DSaA-6 Equations](DSaA-6 Equations.md)
 
-Intent
+[incoming](incoming/index.md)
+[investment](investment/index.md)
+[ITA-15.4\_longest\_common\_subsequence](ITA-15.4_longest_common_subsequence.md)
 
-This is my personal knowledge base. Hopefully this will help organize my learnings.
+[ITA-2.3.2 Equation 1](ITA-2.3.2 Equation 1.md)
 
-The knowledge base will be organized into different topics, as well as the notes taken while reading books in different fields. The intent of the note-taking would be:
+[ITA-3 Growth of Functions](ITA-3 Growth of Functions.md)
 
-1. Get a structural outline of the book, so that to help understand the topic;
-2. By quoting key excerpts, make the notes as materials to review so no need to go back to the book unless details are needed.
+[ITA-32\_String\_Matching](ITA-32_String_Matching.md)
 
+[ITA-6.4 Equation](ITA-6.4 Equation.md)
 
-
----
-##Computer Related##
-
-###Data Structure & Algorithms###
-
-1 [Growth of Functions](ITA-3 Growth of Functions.md)
-
-2 [String Algorithms](Data Structures and Algorithms/String Algorithms.md)
-
-3 [Longest Common Subsequences](ITA-15.4_longest_common_subsequence.md)
-
-###Programing Language###
-
-####Scala####
-
-#####Functional Programming Principles in Scala#####
-[Currying](Scala/FPPiS/Currying.md)
-
-####C++####
-[Use of Template](cpp/use-of-template.md)
-
-###Software Engineering###
-
-####Object Oriented Design####
-
-[SOLID Design Principles](OOD/SOLID-Design-Principles.md)
-
-[Design Patterns](OOD/design-patterns/index.md)
-
-## Interview Notes ##
-[Basic Data Structures](solve/BasicDataStructures.md)
-
-[Advanced Data Structures](solve/advanced-data-structures.md)
-
-[Five Algorithms](solve/five-algorithms.md)
-
-[String Algorithms](solve/string_algorithms.md)
-
-[Type of Problems](solve/type-of-problems.md)
-
-[SOLID](solve/solid.md)
-
-
----
-##Reading Notes##
-
-##Chinese Articles##
+[NLTK Book](NLTK Book/index.md)
+[OOD](OOD/index.md)
+[Reading Notes](Reading Notes/index.md)
+[Scala](Scala/index.md)
+[solve](solve/index.md)

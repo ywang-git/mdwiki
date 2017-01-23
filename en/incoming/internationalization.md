@@ -19,6 +19,7 @@ numbers, date, image, currency, time, measurement
 ### avoid string concatenation
 ### allow for text expansion
 font size, string length
+### are images appropriate?
 ### test other locales
 globalizer (internal statistic analyzer)
 external equivalent??
