@@ -107,3 +107,4 @@ buying what you understand the best and constantly refining and adding to your k
 ##Step 11: Consider Rule Breakers and Small-Caps
 ##Step 12: Advanced Investing Issues
 ##Step 13: Get Fully Foolish
+w

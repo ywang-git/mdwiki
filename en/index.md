@@ -2,6 +2,7 @@
 [algorithms](algorithms/index.md)
 [Coursera Notes](Coursera Notes/index.md)
 [cpp](cpp/index.md)
+[Data Warehouse](Data Warehouse/index.md)
 [DSaA-6 Equations](DSaA-6 Equations.md)
 
 [incoming](incoming/index.md)

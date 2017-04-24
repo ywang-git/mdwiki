@@ -24,6 +24,7 @@ a *feature* is an individual measurable property of a phenomenon being observed
 - simple classification
 - regression
 - clustering
+
 ## Advanced technique
 - multi-class classification
 - semi-supervised learning
@@ -32,6 +33,7 @@ a *feature* is an individual measurable property of a phenomenon being observed
 
 
 Classification: discrete result
+
 Regression: continuous result
 
 ## Concepts Overview
@@ -59,6 +61,7 @@ cannot track
 - overfitting
 - underfitting
 - bias-variance trade-off
+
 ### supervised learning
 two phases
 1. training
